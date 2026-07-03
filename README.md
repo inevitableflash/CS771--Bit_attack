@@ -63,9 +63,3 @@ overfit the train responses (in a ground-truth replication their bits match the 
 up to the global flip symmetry), whereas the PUF-structured prior recovers the true
 middle bits ~99.6% of the time and generalizes. Full explanation in the report.
 
-## Note on academic integrity
-
-This repo is a self-study solution. If you are enrolled in CS771, submitting this
-work (in whole or part) as your own violates the course's plagiarism policy — and
-keeping this repo public before the assignment deadline exposes enrolled students
-(and you) to plagiarism-detection matches. Keep it private until after the deadline.
